@@ -1,3 +1,3 @@
 # Introduction
 
-Some description
+Some description and more functions
